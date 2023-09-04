@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/1234.md",
+                "file": "source/_posts/kjsdkfag.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/1234.md",
+                "file": "source/_posts/kjsdkfag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/1234.md",
+                "file": "source/_posts/kjsdkfag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/1234.md"
+                "file": "source/_posts/kjsdkfag.md"
               }
             }
           },
@@ -154,8 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "090a13f3c3a333aa",
+  "active": "cd3902861f0478d5",
   "lastOpenFiles": [
+    "source/_posts/1234.md",
+    "source/_posts/kjsdkfag.md",
     "public/lib/font-awesome/webfonts/fa-regular-400.woff2",
     "public/lib/font-awesome/webfonts/fa-solid-900.woff2",
     "public/lib/font-awesome/webfonts/fa-brands-400.woff2",
@@ -166,9 +168,7 @@
     "public/lib/font-awesome/css",
     "public/lib/velocity",
     "public/lib/font-awesome",
-    "public/lib/anime.min.js",
     "source/_posts/xxx.md",
-    "source/_posts/1234.md",
     "source/_posts/123.md",
     "source/_posts/1/2.md",
     "public/images/algolia_logo.svg",
