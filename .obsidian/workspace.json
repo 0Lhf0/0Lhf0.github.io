@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fab48a18a214b997",
+        "id": "136869671f1351f4",
         "type": "tabs",
         "children": [
           {
-            "id": "df66bc13a824732c",
+            "id": "4793f38f259289d5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -151,9 +148,11 @@
   },
   "active": "090a13f3c3a333aa",
   "lastOpenFiles": [
+    "12.txt",
+    "新建文本文档.txt",
+    "123.txt",
     "source/_posts/未命名.md",
     "1234.txt",
-    "新建文本文档.txt",
     "source/_posts/kjsdkfag.md",
     "source/_posts/未命名 1.md",
     "source/_posts/1234.md",
@@ -164,7 +163,6 @@
     "public/lib/velocity/velocity.min.js",
     "public/lib/velocity/velocity.ui.min.js",
     "public/lib/font-awesome/webfonts",
-    "public/lib/font-awesome/css",
     "source/_posts/xxx.md",
     "source/_posts/123.md",
     "source/_posts/1/2.md",
