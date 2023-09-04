@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "2ad9e99746f1eb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a7bd0d629a45892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd3902861f0478d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/1234.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a77c40ae7cff02a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "723b7c4be0fec43f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3889f3b9e35b1da5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34300dc9dafa5ecb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81e70a902ee6c354",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab112c9705ca48ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b20a830711f78aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99b47d20053d476b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/1234.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba7542d3515f5df7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/1234.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a90764b9846f897",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9dc452626863e19b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/1234.md"
+              }
+            }
+          },
+          {
+            "id": "090a13f3c3a333aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "090a13f3c3a333aa",
+  "lastOpenFiles": [
+    "public/lib/font-awesome/webfonts/fa-regular-400.woff2",
+    "public/lib/font-awesome/webfonts/fa-solid-900.woff2",
+    "public/lib/font-awesome/webfonts/fa-brands-400.woff2",
+    "public/lib/font-awesome/css/all.min.css",
+    "public/lib/velocity/velocity.min.js",
+    "public/lib/velocity/velocity.ui.min.js",
+    "public/lib/font-awesome/webfonts",
+    "public/lib/font-awesome/css",
+    "public/lib/velocity",
+    "public/lib/font-awesome",
+    "public/lib/anime.min.js",
+    "source/_posts/xxx.md",
+    "source/_posts/1234.md",
+    "source/_posts/123.md",
+    "source/_posts/1/2.md",
+    "public/images/algolia_logo.svg",
+    "source/template/front-matter.md",
+    "source/_posts/hello-world.md",
+    "未命名.md"
+  ]
+}
